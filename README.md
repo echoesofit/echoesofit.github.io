@@ -1,2 +1,2 @@
-Hi world.
-[about echo](/about)
+# Hi world.
+You can read [about echo](/about)

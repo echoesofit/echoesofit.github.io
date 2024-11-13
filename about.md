@@ -1,4 +1,5 @@
-about echo
+[home](/)
+# about echo
 
 i'm a disabled artist and author, dealing with debilitative mental health issues. currently i'm creating hand-crafted digital art and writings as i'm able to. 
 
